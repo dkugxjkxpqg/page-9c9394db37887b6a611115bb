@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://home.lskxcsq.cn/sitemap.xml
